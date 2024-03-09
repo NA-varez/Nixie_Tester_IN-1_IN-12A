@@ -27,7 +27,7 @@ A Nixie tube tester that counts from 0 to 9, lighting up each cathode of the Nix
   <h3 align="center">Nixie Tube Tester</h3>
 
   <p align="center">
-    A Nixie tube tester that counts from 0 to 9! Lights up each cathode of the Nixie tube. External HV supply required.
+    A Nixie tube tester that counts from 0 to 9!
     <br />
   </p>
 </div>
@@ -54,7 +54,6 @@ A Nixie tube tester that counts from 0 to 9, lighting up each cathode of the Nix
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -67,20 +66,21 @@ A Nixie tube tester that counts from 0 to 9, lighting up each cathode of the Nix
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+<div align="center">
+  <a href="https://github.com/NA-varez/Nixie_Tester_IN-1_IN-12A/">
+    <img src="images/2.png" alt="1" width="600" height="300">
+  </a>
+</div>
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
+External HV supply required.
+
 * You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+## Notes
 
 ### Built With
 
