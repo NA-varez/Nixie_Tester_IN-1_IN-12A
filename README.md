@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/NA-varez/Nixie_Tester_IN-1_IN-12A/">
-    <img src="images/1.jpg" alt="1" width="400" height="400">
+    <img src="images/1.jpg" alt="1" width="400" height="300">
   </a>
 
   <p align="center">
@@ -13,6 +13,18 @@
   </p>
 </div>
 
+
+<!-- USAGE EXAMPLES -->
+## How it Works
+An external HV supply is required. Look for one that has a maximum voltage output of at least 180V. Eventually, I would like to design my own.
+
+R5 is a variable resistor that can be adjusted to change the speed of clock generated from the astable configured 555-timer.
+The output of the 555-timer is to a counter IC that cycles through its 10 outputs.
+Those 10 outputs are to Darlington transistor arrays (2 chips) that have a suitable 100V collector-emitter breakdown voltage to handle the required cathode biasing for the nixie tube.
+A Zener is biased with a resistor to produce the 91V bias.
+180V is a good number to use for a maximum of the HV supply. Any larger than that does not make the nixie tube brighter, and you typically want to run your tubes gently, only to the required voltage for it to turn on to improve tube lifetime.
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 <!-- ABOUT THE PROJECT -->
 ## Project Pictures!
@@ -29,18 +41,6 @@
   </a>
 </div>
 
-
-<!-- USAGE EXAMPLES -->
-## How it Works
-An external HV supply is required. Look for one that has a maximum voltage output of at least 180V. Eventually, I would like to design my own.
-
-R5 is a variable resistor that can be adjusted to change the speed of clock generated from the astable configured 555-timer.
-The output of the 555-timer is to a counter IC that cycles through its 10 outputs.
-Those 10 outputs are to Darlington transistor arrays (2 chips) that have a suitable 100V collector-emitter breakdown voltage to handle the required cathode biasing for the nixie tube.
-A Zener is biased with a resistor to produce the 91V bias.
-180V is a good number to use for a maximum of the HV supply. Any larger than that does not make the nixie tube brighter, and you typically want to run your tubes gently, only to the required voltage for it to turn on to improve tube lifetime.
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 ### Software Used
 
