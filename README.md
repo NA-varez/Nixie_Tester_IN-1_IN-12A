@@ -81,9 +81,9 @@ Douglas Liu - https://www.linkedin.com/in/liudouglas/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-[Threeneuron](https://threeneurons.wordpress.com/nixie-power-supply/)
-[Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
-[Footprint Reference Guide](https://www.slideshare.net/abishus/smt-notes)
+* [Threeneuron](https://threeneurons.wordpress.com/nixie-power-supply/)
+* [Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
+* [Footprint Reference Guide](https://www.slideshare.net/abishus/smt-notes)
 
 :smile:
 
