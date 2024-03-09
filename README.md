@@ -1,19 +1,6 @@
 # Nixie_Tester_IN-1_IN-12A
 A Nixie tube tester that counts from 0 to 9, lighting up each cathode of the Nixie tube. External HV supply required.
 
-<a name="readme-top"></a>
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
 
 
 <!-- PROJECT LOGO -->
@@ -22,8 +9,6 @@ A Nixie tube tester that counts from 0 to 9, lighting up each cathode of the Nix
   <a href="https://github.com/NA-varez/Nixie_Tester_IN-1_IN-12A/">
     <img src="images/1.png" alt="1" width="100" height="100">
   </a>
-
-  <h2 align="center">Nixie Tube Tester</h2>
 
   <p align="center">
     A Nixie tube tester that counts from 0 to 9! (CONSTRUCTION AND TESTING IN PROGRESS)
