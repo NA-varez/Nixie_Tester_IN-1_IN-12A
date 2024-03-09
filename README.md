@@ -25,6 +25,19 @@
 
 External HV supply required.
 
+<!-- USAGE EXAMPLES -->
+## How it Works
+
+R5 is a variable resistor that can be adjusted to change the speed of clock generated from the astable configured 555-timer.
+The output of the 555-timer is to a counter IC that cycles through its 10 outputs.
+Those 10 outputs are to Darlington transistor arrays (2 chips) that have a suitable 100V collector-emitter breakdown voltage to handle the required cathode biasing for the nixie tube.
+A Zener is biased with a resistor to produce the 91V bias.
+180V is a good number to use for a maximum of the HV supply. Any larger than that does not make the nixie tube brighter, and you typically want to run your tubes gently, only to the required voltage for it to turn on to improve tube lifetime.
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+
+
 
 ## Notes
 
@@ -34,15 +47,6 @@ JLC pcb contacted me wondering if I wanted the board outline to be defined by th
 
 In the future I will look at the gerber files and NC drill files more closely with Gerber Viewer 7.0 to understand each layer's existence and purpose.
 In a future commit I will remove the outline from the keepout layer (.GKO to prevent any confusion or delay when getting board fabbed.
-
-<!-- USAGE EXAMPLES -->
-## How it Works
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ROADMAP -->
@@ -55,6 +59,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Assemble and test the board
 - [ ] Make any fixes to the board (especially Nixie tube footprints) for it to be a reliable design for others
 - [ ] Design a simple DC-DC Boost Converter Supply 12V input to max output of 200V (This will be linked to a separate repo eventually)
+- [ ] Maybe add 3D CAD models to the components
 
 
 <!-- CONTACT -->
