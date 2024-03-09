@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/NA-varez/Nixie_Tester_IN-1_IN-12A/">
-    <img src="images/1.png" alt="1" width="100" height="100">
+    <img src="images/1.jpg" alt="1" width="100" height="100">
   </a>
 
   <p align="center">
@@ -19,13 +19,13 @@
 
 <div align="center">
   <a href="https://github.com/NA-varez/Nixie_Tester_IN-1_IN-12A/">
-    <img src="images/2.png" alt="2" width="600" height="300">
+    <img src="images/2.png" alt="2" width="800" height="500">
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/NA-varez/Nixie_Tester_IN-1_IN-12A/">
-    <img src="images/3.png" alt="3" width="600" height="300">
+    <img src="images/3.png" alt="3" width="800" height="500">
   </a>
 </div>
 
