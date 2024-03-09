@@ -44,8 +44,8 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 ### Software Used
 
-Altium (Free for students!)
-Gerber Viewer 7.0 (Free!)
+* Altium and Altium Workspace (Free for students!)
+* Gerber Viewer 7.0 (Free!)
 
 ## Notes to Self and Helpful for Others
 
