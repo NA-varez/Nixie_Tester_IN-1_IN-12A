@@ -36,7 +36,10 @@ A Zener is biased with a resistor to produce the 91V bias.
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
+### Software Used
 
+Altium (Free for students!)
+Gerber Viewer 7.0 (Free!)
 
 ## Notes to Self and Helpful for Others
 
