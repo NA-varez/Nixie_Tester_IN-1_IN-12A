@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/NA-varez/Nixie_Tester_IN-1_IN-12A/">
-    <img src="images/1.jpg" alt="1" width="100" height="100">
+    <img src="images/1.jpg" alt="1" width="400" height="400">
   </a>
 
   <p align="center">
