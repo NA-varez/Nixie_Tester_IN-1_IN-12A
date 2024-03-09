@@ -23,6 +23,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/NA-varez/Nixie_Tester_IN-1_IN-12A/">
+    <img src="images/3.png" alt="3" width="600" height="300">
+  </a>
+</div>
+
 
 <!-- USAGE EXAMPLES -->
 ## How it Works
@@ -76,6 +82,8 @@ Douglas Liu - https://www.linkedin.com/in/liudouglas/
 ## Acknowledgments
 
 [Threeneuron](https://threeneurons.wordpress.com/nixie-power-supply/)
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
+[Footprint Reference Guide](https://www.slideshare.net/abishus/smt-notes)
 
 :smile:
 
