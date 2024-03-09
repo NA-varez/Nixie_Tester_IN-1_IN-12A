@@ -23,7 +23,7 @@ A Nixie tube tester that counts from 0 to 9, lighting up each cathode of the Nix
     <img src="images/1.png" alt="1" width="100" height="100">
   </a>
 
-  <h3 align="center">Nixie Tube Tester</h3>
+  <h2 align="center">Nixie Tube Tester</h2>
 
   <p align="center">
     A Nixie tube tester that counts from 0 to 9! (CONSTRUCTION AND TESTING IN PROGRESS)
