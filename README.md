@@ -15,7 +15,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Project Pictures!
 
 <div align="center">
   <a href="https://github.com/NA-varez/Nixie_Tester_IN-1_IN-12A/">
@@ -23,10 +23,10 @@
   </a>
 </div>
 
-External HV supply required.
 
 <!-- USAGE EXAMPLES -->
 ## How it Works
+An external HV supply is required. Look for one that has a maximum voltage output of at least 180V. Eventually, I would like to design my own.
 
 R5 is a variable resistor that can be adjusted to change the speed of clock generated from the astable configured 555-timer.
 The output of the 555-timer is to a counter IC that cycles through its 10 outputs.
@@ -38,15 +38,14 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 
 
-
-## Notes
+## Notes to Self and Helpful for Others
 
 A board outline only needs to be created when you want the shape of the board to be different than the basic rectangle that is automatically created as a gerber .GM file.
 If you want rounded edges or something, then a board outline is required to define that. The reason I am explaining this is when I sent this board to fab, 
 JLC pcb contacted me wondering if I wanted the board outline to be defined by the .GKO or .GM gerber. Turns out 
 
 In the future I will look at the gerber files and NC drill files more closely with Gerber Viewer 7.0 to understand each layer's existence and purpose.
-In a future commit I will remove the outline from the keepout layer (.GKO to prevent any confusion or delay when getting board fabbed.
+In a future commit I will remove the outline from the keepout layer .GKO to prevent any confusion or delay when getting board fabbed.
 
 
 <!-- ROADMAP -->
@@ -65,7 +64,8 @@ In a future commit I will remove the outline from the keepout layer (.GKO to pre
 <!-- CONTACT -->
 ## Contact
 
-Nicolas Alvarez - nalvar95@outlook.com - www.linkedin.com/in/nicolas-alvarez-69061b1b6
+Nicolas Alvarez (README.md Author) - nalvar95@outlook.com - www.linkedin.com/in/nicolas-alvarez-69061b1b6
+
 Douglas Liu - https://www.linkedin.com/in/liudouglas/
 
 
