@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    A Nixie tube tester that counts from 0 to 9! (CONSTRUCTION AND TESTING IN PROGRESS)
+    A Nixie tube tester that counts from 0 to 9!
     <br />
   </p>
 </div>
