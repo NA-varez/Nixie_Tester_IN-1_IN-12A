@@ -28,7 +28,6 @@
 - Those 10 outputs are input to 2 Darlington Arrays (chips) that have a 100V collector-emitter breakdown voltage to handle the required cathode biasing for the nixie tube.
 - A Zener is biased with a resistor to produce the 91V cathode bias.
 
-https://www.ebay.com/itm/302480301206?_skw=100+PCS+Delphi+MOLEX+automotive+0002091102&epid=3006811366&itmmeta=01JPE8DFVT224VYGVYKBZGA8RX&hash=item466d3b1c96:g:kX0AAOSw409Z2TBu&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1dvdA0bwKvx7MKlPEyygcmCCZ%2F1UXMhzoIpQpKTCGGvjCdssp42dG3yG3wfdlLxoJ7SaAqRxnMwc%2FWp1sryRH96fBuMbFN6%2FPUSZHXtZGTXIvTiLEJskfK0Mo8izaSmgAHSRl5gC%2BNeGVrlFGUZbh8J3xkQBtEIQ7O%2BEwnEEcv%2FcVpBKdLAoN5fEMF5F6u0tiB3etfN890ZPJ14uI4q2HiahxrcUyfhMMIy6Xuc%2BbSaQw6BveJro1wyrjNgCrRE57XOez1H8Gjuo8PM7lxFSYQSufijqCdpgdqIL15peixl06scp4Pn6S0T0jMNuxkKgEPlIjfRIeQnJVQym%2B7UopTF%7Ctkp%3ABk9SR4T-tcizZQ
 ## Project Pictures!
 
 <div align="center">
@@ -52,6 +51,7 @@ https://www.ebay.com/itm/302480301206?_skw=100+PCS+Delphi+MOLEX+automotive+00020
 * [Threeneuron](https://threeneurons.wordpress.com/nixie-power-supply/)
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
 * [Footprint Reference Guide](https://www.slideshare.net/abishus/smt-notes)
+* [IN-1 Socket Contact](https://www.ebay.com/itm/302480301206?_skw=100+PCS+Delphi+MOLEX+automotive+0002091102)
 
 
 ## Notes to Self and Helpful for Others
