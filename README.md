@@ -1,8 +1,6 @@
 # Nixie Tube Tester - IN-1 and IN-12A
 
-<div align="center">
-  <video src="media/nixietubetesterdemo.mp4" controls width="800"></video>
-</div>
+https://github.com/user-attachments/assets/7158ab72-1c5b-4f93-8375-850d6015da81
 
 ## The Nixie Tube
 
@@ -21,7 +19,7 @@ First, here are the parts of a nixie tube.
 
 <div align="center">
   <a href="https://github.com/NA-varez/Nixie_Tester_IN-1_IN-12A/">
-    <img src="media/nixiedrawingbyRickFurr.gif" alt="2" width="800" height="500">
+    <img src="media/nixiedrawingbyRickFurr.gif" alt="2" width="200" height="200">
   </a>
 </div>
 
@@ -45,13 +43,13 @@ First, here are the parts of a nixie tube.
 
 <div align="center">
   <a href="https://github.com/NA-varez/Nixie_Tester_IN-1_IN-12A/">
-    <img src="media/2.png" alt="2" width="800" height="500">
+    <img src="media/2.png" alt="2" width="400" height="400">
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/NA-varez/Nixie_Tester_IN-1_IN-12A/">
-    <img src="media/3.png" alt="3" width="800" height="500">
+    <img src="media/3.png" alt="3" width="400" height="400">
   </a>
 </div>
 
