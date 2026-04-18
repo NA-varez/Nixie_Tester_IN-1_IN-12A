@@ -13,10 +13,16 @@
   </p>
 </div>
 
+## The Nixie Tube
+The orange glow is not a resistive glow produced by heat. 
 
-## How it Works
-1. 555 timer clocks a counter IC at a specified speed (Using a varistor) 
-2. Counter IC cycles through and powers every darlington pair 
+The wire mesh you see 
+
+
+
+## The Nixie Tester
+1. Astable 555 timer clocks a counter IC at a specified speed (Using a varistor) 
+2. Every nixie digit is an anode. When grounded, current flows through the digit.
 3. Each darlington pair, when powered, ground each digit (anode) of the nixie tube allowing it to count up
 4. Orange GLOW!
 
@@ -64,32 +70,27 @@ https://github.com/user-attachments/assets/7158ab72-1c5b-4f93-8375-850d6015da81
 * Gerber Viewer 7.0 (Free!)
   
 * [Threeneuron](https://threeneurons.wordpress.com/nixie-power-supply/)
+* [Nixie Drawing Figure](https://www.vcalc.net/display2.htm)<img width="187" height="135" alt="nixiedrawingbyRickFurr" src="https://github.com/user-attachments/assets/75b389c6-acff-464d-bf36-6c0d8ce6e9a2" />
+
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
 * [Footprint Reference Guide](https://www.slideshare.net/abishus/smt-notes)
 * [IN-1 Socket Contact](https://www.ebay.com/itm/302480301206?_skw=100+PCS+Delphi+MOLEX+automotive+0002091102)
 
 
-## Notes to Self and Helpful for Others
-Empirically proven, any larger than 180V does not make the nixie tube any visibly brighter. Better to run at 180V or lower to preserve tube lifetime.
-
-A board outline only needs to be created when you want the shape of the board to be different than the basic rectangle that is automatically created as a gerber .GM file.
-If you want rounded edges or something, then a board outline is required to define that. The reason I am explaining this is when I sent this board to fab, 
-JLC pcb contacted me wondering if I wanted the board outline to be defined by the .GKO or .GM gerber.
-
-In the future I will look at the gerber files and NC drill files more closely with Gerber Viewer 7.0 to understand each layer's existence and purpose.
-In a future commit I will remove the outline from the keepout layer .GKO to prevent any confusion or delay when getting the board fabbed.
-
+## Lessons Learned
+* Empirically proven, any larger than 180V does not make the nixie tube any visibly brighter. Better to run at 180V or lower to preserve tube lifetime.
+* Remove the outline from the keepout layer .GKO to prevent any confusion or delay when getting the board fabbed.
+* Surface-mount soldering is easier said than done. Easier if you have higher-quality tools, more specifically an inductive rather than resistive heating iron.
 
 ## To-Do
 
 - [X] Figure out how to bias the cathode and what components to use for cycling through cathodes
 - [x] Create footprints for edge connections
 - [X] Order board (Used JLC PCB)
-- [ ] Remove gerber .GKO Keepout layer outline. Not needed. The .GM layer already takes care of the board outline
+- [X] Remove gerber .GKO Keepout layer outline. Not needed. The .GM layer already takes care of the board outline
 - [X] Assemble and test the board
 - [X] Make any fixes to the board (especially Nixie tube footprints) for it to be a reliable design for others
 ~~- [ ] Design a simple DC-DC Boost Converter Supply 12V input to max output of 200V (This will be linked to a separate repo eventually)~~
-- [ ] Design a Flyback or Boost to step 5V to a max output of 200V
 
 
 
